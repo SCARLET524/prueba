@@ -1,2 +1,2 @@
-# prueba
+# Prueba
 Primera prueba en GitHub
