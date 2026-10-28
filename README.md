@@ -1,3 +1,2 @@
 # prueba
-primero
-Primer repositorio en GitHub
+Primera prueba en GitHub
